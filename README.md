@@ -4,3 +4,4 @@ This repository contains all the data science projects I've undertaken on my spa
 Thus far the projects include:
 
 1. An exploratory data analysis of regional sales data.
+2. Machine learning classification of the Iris dataset.
